@@ -7,8 +7,9 @@
 
 ## Install
 
-Add `hyper-snazzy` to the plugins list in your `~/.hyper.js` config file and restart Hyper. 
-You can also install it with [hpm](https://github.com/zeit/hpm): `hpm install hyper-snazzy`
+```
+$ hyper install hyper-snazzy
+```
 
 
 ## Tip
@@ -25,6 +26,8 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 - [emacs-snazzy](https://github.com/weijiangan/emacs-snazzy) - Emacs version
 - [termite-snazzy](https://github.com/kbobrowski/termite-snazzy) - Termite version
 - [deepin-snazzy](https://github.com/xxczaki/deepin-snazzy) - Linux Deepin terminal version
+- [vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Vim version
+- [base16-snazzy](https://github.com/h404bi/base16-snazzy-scheme) - Base16 version
 
 
 ## License
